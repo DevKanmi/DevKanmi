@@ -6,4 +6,4 @@
 - 💬 Ask me about Backend development, Express.js, MongoDB, and API design.
 - 📫 How to reach me: akinbayookanmiyo@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am ambidextrous or i think.
+- ⚡ Fun fact: I am ambidextrous or so i think.
