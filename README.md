@@ -1,4 +1,4 @@
-## Hi there, I'm Akinbayo Clinton👋
+#### Hi there, I'm Clinton👋
 
  I'm a backend developer, specializing in building scalable, secure, and maintainable RESTful APIs. I love solving problems and improving workflows, and I’m always looking for new ways to challenge myself and grow as a developer.
  
